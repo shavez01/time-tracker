@@ -11,9 +11,9 @@
     <title>Super Simple Example Webpage</title>
 </head>
 <body>
-  <h1>Super Simple Example Web Page</h1>
+  <h1>Very Super Simple Example Web Page</h1>
   <p>
-   Crazy
+   This is very simple example web page on JSP. Changes made to show redeploy from jenkins.
   </p>
 </body>
 </html>
